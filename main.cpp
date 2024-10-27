@@ -3,6 +3,8 @@
 #include "tamplate.h"
  using namespace std;
 
+// todo
+
 class Figure {
 public:
     virtual float calculatePerimetr()=0;
